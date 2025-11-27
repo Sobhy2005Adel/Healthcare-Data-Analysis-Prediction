@@ -32,6 +32,8 @@ The notebook includes data exploration, cleaning, visualization, feature enginee
 Install the required libraries:
 
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+
 1.🚀 How to Use
 
 Open the notebook:jupyter notebook Healthcare.ipynb
